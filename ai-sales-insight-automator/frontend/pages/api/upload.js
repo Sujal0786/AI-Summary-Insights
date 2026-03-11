@@ -1,6 +1,4 @@
 import formidable from 'formidable';
-import fs from 'fs';
-import path from 'path';
 
 // Disable body parsing for file upload
 export const config = {
