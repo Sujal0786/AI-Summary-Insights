@@ -19,7 +19,7 @@ const useFileUpload = () => {
     setProgress(0);
 
     try {
-      const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000/api';
+      const API_URL = process.env.NEXT_PUBLIC_API_URL || '/api';
       
       const response = await axios.post(`${API_URL}/upload`, formData, {
         headers: {
