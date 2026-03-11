@@ -19,7 +19,7 @@ const useFileUpload = () => {
     setProgress(0);
 
     try {
-      const API_URL = process.env.NEXT_PUBLIC_API_URL || '/api';
+      const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://ai-sales-insight-backend.onrender.com/api';
       
       const response = await axios.post(`${API_URL}/upload`, formData, {
         headers: {
