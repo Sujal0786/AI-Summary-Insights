@@ -1,0 +1,16 @@
+Date,Product_Category,Region,Units_Sold,Unit_Price,Revenue,Status
+2026-01-05,Electronics,North,150,1200,180000,Shipped
+2026-01-12,Home Appliances,South,45,450,20250,Shipped
+2026-01-20,Electronics,East,80,1100,88000,Delivered
+2026-02-15,Electronics,North,210,1250,262500,Delivered
+2026-02-28,Home Appliances,North,60,400,24000,Cancelled
+2026-03-10,Electronics,West,95,1150,109250,Shipped
+2026-03-15,Furniture,South,25,800,20000,Delivered
+2026-03-22,Electronics,East,120,1300,156000,Shipped
+2026-04-05,Home Appliances,West,75,500,37500,Delivered
+2026-04-12,Furniture,North,40,900,36000,Shipped
+2026-04-18,Electronics,South,180,1150,207000,Delivered
+2026-04-25,Home Appliances,East,55,475,26125,Shipped
+2026-05-08,Furniture,West,30,850,25500,Delivered
+2026-05-15,Electronics,North,165,1200,198000,Shipped
+2026-05-22,Home Appliances,South,85,450,38250,Delivered
