@@ -20,5 +20,5 @@
       "dest": "frontend/$1"
     }
   ],
-  "outputDirectory": "frontend/.next"
+  "outputDirectory": "frontend/public"
 }
