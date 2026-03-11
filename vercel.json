@@ -1,10 +1,10 @@
 {
   "version": 2,
   "name": "ai-sales-insight-automator",
-  "buildCommand": "cd ai-sales-insight-automator/frontend && npm install && npm run build",
+  "installCommand": "cd ai-sales-insight-automator/frontend && npm install",
+  "buildCommand": "cd ai-sales-insight-automator/frontend && npm run build",
   "outputDirectory": "ai-sales-insight-automator/frontend/.next",
   "framework": "nextjs",
-  "installCommand": "cd ai-sales-insight-automator && npm install",
   "rewrites": [
     {
       "source": "/api/:path*",
